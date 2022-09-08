@@ -2,10 +2,10 @@
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/IEvangelist/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/IEvangelist/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/IEvangelist/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
@@ -83,9 +83,9 @@ To solve this the most obvious solution was to make the background transparent. 
 
 After wasting a day playing with different color values finally settled on one. Hope you like it. 
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/light.png)
+![](https://raw.githubusercontent.com/IEvangelist/github-stats-transparent/main/readme_images/light.png)
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/dark.png)
+![](https://raw.githubusercontent.com/IEvangelist/github-stats-transparent/main/readme_images/dark.png)
 
 
 ## Related Projects
